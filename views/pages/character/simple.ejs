@@ -1,4 +1,21 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title><%= character.name %> @ <%= character.realm %></title>
+	<style>
+	.summary-inventory-simple {
+		position: relative;
+		width:612px;
+		height: 455px;
+	}
+	.slot {
+		position: absolute;
+		border-radius: 4px;
+	}
+	</style>
+</head>
+<body>
 World of Warcraft®
 Log in now to enhance and personalize your experience!
 
@@ -12,20 +29,47 @@ Elder
 <%= character.level %> <%= races[character.race] %> Elemental <%= classes[character.class] %>, <%= character.realm %>
 <%= character.achievementPoints %>
 
-    Summary
-    Auctions
-    Events
-    Achievements
-    Challenge Mode
-    Pets & Mounts
-    Professions
-    Reputation
-    PvP
-    Activity Feed
-    Guild
+<ul>
+    <li>Summary</li>
+    <li>Auctions</li>
+    <li>Events</li>
+    <li>Achievements</li>
+    <li>Challenge Mode</li>
+    <li>Pets & Mounts</li>
+    <li>Professions</li>
+    <li>Reputation</li>
+    <li>PvP</li>
+    <li>Activity Feed</li>
+    <li>Guild</li>
+</ul>
 
     Advanced
     Simple
+
+
+
+
+
+
+
+
+
+// div position:absolute; width:500px; height: 500pxc;
+<div id="summary-inventory" class="summary-inventory summary-inventory-simple">
+<% for (var i = 0; i < slots.length; i++) { %>
+	<div xmlns="http://www.w3.org/1999/xhtml" class="slot item-quality-3" style="<%= positionHelper(slots[i].pos) %>">
+		<div class="slot-inner">
+			<div class="slot-contents">
+				<% if (character.items[slots[i].name]) { %>
+					<a href="/wow/en/item/<%= character.items[slots[i].name].id %>" class="item" data-item="pl=93&amp;cc=11&amp;bl"><img src="http://media.blizzard.com/wow/icons/56/<%= character.items[slots[i].name].icon %>.jpg" alt="" /><span class="frame"></span></a>
+				<% } else { %>
+
+				<% } %>
+			</div>
+		</div>
+	</div>
+<% } %>
+</div>
 
 Average item level
 (532 Equipped)
@@ -268,3 +312,5 @@ BRF
 		
 Completed In progress
 Last updated on 05/04/2015
+</body>
+</html>
