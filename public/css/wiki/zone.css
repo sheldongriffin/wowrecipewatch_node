@@ -1,5 +1,5 @@
 
-#content .content-top { background: url("../../images/wiki/zone/index-bg.jpg") 0 0 no-repeat; }
+#content .content-top { background: url("/images/wiki/zone/index-bg.jpg") 0 0 no-repeat; }
 
 /* portrait */
 .boss-portrait { display: block; overflow: hidden; width: 58px; height: 58px; margin: 1px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; -moz-box-shadow: #0d0703 0 0 5px; -webkit-box-shadow: #0d0703 0 0 5px; box-shadow: #0d0703 0 0 5px; background-color: #3b1c11; background-position: 0 0; }
@@ -23,27 +23,27 @@ a:hover .boss-portrait { border: 1px solid #cd9000; margin: 0; }
 .zone-bosses .boss-avatar a:hover { background: #180c04; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
 
 /* Challenge Mode */
-.challenge-mode {margin: 36px 0 0 5px; display: inline-block; background: url("../../images/icons/sandglass.png") 0 4px no-repeat; padding-left: 20px;}
+.challenge-mode {margin: 36px 0 0 5px; display: inline-block; background: url("/images/icons/sandglass.png") 0 4px no-repeat; padding-left: 20px;}
 .challenge-mode:hover {background-position: 0 -49px;}
-.challenge-mode span {display: inline-block; background: url("../../images/icons/more-arrows.gif") 100% 7px no-repeat; padding-right: 11px; line-height: 25px;}
+.challenge-mode span {display: inline-block; background: url("/images/icons/more-arrows.gif") 100% 7px no-repeat; padding-right: 11px; line-height: 25px;}
 .challenge-mode:hover span {background-position: 100% -40px;}
 
 /* directory */
 .zone-index .wiki .title h2 { max-width: 450px; }
-.wiki.directory .groups .group .group-column ul { border-top: 1px solid #432615; background: url("../../images/wiki/directory-separator.png") -1px top no-repeat; }
+.wiki.directory .groups .group .group-column ul { border-top: 1px solid #432615; background: url("/images/wiki/directory-separator.png") -1px top no-repeat; }
 .wiki.directory .groups .group .group-column.scenario ul:first-child { background-image: none; }
 .wiki.directory .groups .group .group-column:first-child ul { background-image: none; }
 .wiki.directory .groups .group .name { display: block; line-height: 24px; }
 .wiki.directory .groups .group .patch { display: block; font-size: 11px; line-height: 10px; color: #98542D; }
 .wiki.directory .groups .group .level-range { color: #71401F; font-style: normal; font-size: 10px; margin-top: 2px; float: right; white-space: nowrap; }
 .wiki.directory .groups .group .zone-thumbnail { float: left; display: block; overflow: hidden; width: 38px; height: 38px; margin: 1px 11px 1px 1px;
-	background-color: #3b1c11; background-image: url("../../images/wiki/zone/thumbnails.png"); background-repeat: no-repeat;
+	background-color: #3b1c11; background-image: url("/images/wiki/zone/thumbnails.png"); background-repeat: no-repeat;
 	-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px;
 	-moz-box-shadow: #0d0703 0 0 5px; -webkit-box-shadow: #0d0703 0 0 5px; box-shadow: #0d0703 0 0 5px; }
 .wiki.directory .groups .group a:hover .zone-thumbnail { border: 1px solid #cd9000; margin: 0 10px 0 0; }
 .wiki.directory .groups .group .icon-faction-0,
 .wiki.directory .groups .group .icon-faction-1 { margin-top: -3px; }
-.wiki-tooltip .zone-thumbnail { background-image: url("../../images/wiki/zone/thumbnails.png");}
+.wiki-tooltip .zone-thumbnail { background-image: url("/images/wiki/zone/thumbnails.png");}
 
 /* floors */
 #map-floors { width: 265px; height: 177px; }
@@ -184,4 +184,4 @@ a:hover .boss-portrait { border: 1px solid #cd9000; margin: 0; }
 
 /* ie */
 .ie6 .wiki.directory .groups .group .name { float: left; }
-.ie6 .challenge-mode { background: url("../../images/icons/sandglass.gif") 0 4px no-repeat; }
+.ie6 .challenge-mode { background: url("/images/icons/sandglass.gif") 0 4px no-repeat; }
