@@ -38,20 +38,16 @@ exports.imageHandler = function (req, res) {
 							fs.writeFile(localPath, reqbody, 'binary', function (e) {
 								if (e) { console.log(e); }
 							});
+							res.send(reqbody);
 						} else {
 							console.log("Error getting file " + remotePath + " code: " + reqresponse.statusCode);
+							res.status(404).send('Sorry cant find that!');
 						}
 					});
-
-					res.status(404).send('Sorry cant find that!');
 				}
 			});
 		} else {
-			sendFile(res, localPath);
+			res.sendFile(localPath);
 		}
 	});
 };
-
-function sendFile(res, path) {
-	res.sendFile(path);
-}
