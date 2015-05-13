@@ -27,8 +27,8 @@ exports.imageHandler = function (req, res) {
 
 	var localDirectory = path.dirname(localPath);
 
-	fs.exists(localPath, function (exists) {
-		if (!exists) {
+	res.sendFile(localPath, {}, function (err) {
+		if (err) {
 			mkdirp(localDirectory, function (err) {
 				if (err) { 
 					res.status(404).send('Sorry cant find that!');
@@ -46,8 +46,6 @@ exports.imageHandler = function (req, res) {
 					});
 				}
 			});
-		} else {
-			res.sendFile(localPath);
 		}
 	});
 };
