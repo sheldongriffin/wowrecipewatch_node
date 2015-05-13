@@ -53,17 +53,7 @@ app.get(/static-render/, imageHandler);
 app.use(express.static('public'));
 
 app.get('/', function (req, res){
-    var drinks = [
-        { name: 'Bloody Mary', drunkness: 3 },
-        { name: 'Martini', drunkness: 5 },
-        { name: 'Scotch', drunkness: 10 }
-    ];
-    var tagline = "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else.";
-
-	res.render('pages/index', {
-        drinks: drinks,
-        tagline: tagline
-    });
+	res.render('pages/index');
 });
 
 app.get('/about', function (req, res) {
@@ -81,6 +71,25 @@ app.get('/character/:server/:charactername/simple', function (req, res, next){
 		var character = JSON.parse(data);
 		var view = { character: character, classes: classes, races: races, slots: slots };
 		res.render('pages/character/simple', view);
+	});
+});
+
+//http://us.battle.net/wow/en/character/aerie-peak/Doraie/profession/
+app.get('/wow/en/character/:server/:charactername/profession/', function (req, res, next){
+	fs.readFile(path.dirname(require.main.filename) + '/baseload/Doraie.json', { encoding: 'utf8' }, function (err, data) {
+		if (err) throw err;
+		var character = JSON.parse(data);
+		res.redirect('/wow/en/character/' + req.params.server + '/' + req.params.charactername + '/profession/' + character.professions.primary[0].name.toLowerCase());
+	});
+});
+
+//http://us.battle.net/wow/en/character/aerie-peak/Doraie/profession/enchanting
+app.get('/wow/en/character/:server/:charactername/profession/:profession', function (req, res, next){
+	fs.readFile(path.dirname(require.main.filename) + '/baseload/Doraie.json', { encoding: 'utf8' }, function (err, data) {
+		if (err) throw err;
+		var character = JSON.parse(data);
+		var view = { character: character, classes: classes, races: races, slots: slots };
+		res.render('pages/character/profession', view);
 	});
 });
 
