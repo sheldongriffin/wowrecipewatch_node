@@ -1,0 +1,3748 @@
+[
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Health",
+        "_id": 7418,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 15
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Health",
+        "_id": 7420,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 15
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Runed Copper Rod",
+        "_id": 7421,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "craftedItemId": 6218
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Absorption",
+        "_id": 7426,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 40
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Dodge",
+        "_id": 7428,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 1
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Mana",
+        "_id": 7443,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 20,
+        "recipeItemId": 6342
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Stamina",
+        "_id": 7457,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 125
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Impact",
+        "_id": 7745,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 100
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Health",
+        "_id": 7748,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 60
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Spirit",
+        "_id": 7766,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 60,
+        "recipeItemId": 6344
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Protection",
+        "_id": 7771,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 70
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Mana",
+        "_id": 7776,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 80,
+        "recipeItemId": 6346
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Agility",
+        "_id": 7779,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 80
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Strength",
+        "_id": 7782,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 80,
+        "recipeItemId": 6347
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Beastslayer",
+        "_id": 7786,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 90,
+        "recipeItemId": 6348
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Striking",
+        "_id": 7788,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 90
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Intellect",
+        "_id": 7793,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 150,
+        "recipeItemId": 6349
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Health",
+        "_id": 7857,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 120
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Spirit",
+        "_id": 7859,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 130,
+        "recipeItemId": 6375
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Stamina",
+        "_id": 7863,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 125
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Agility",
+        "_id": 7867,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 80,
+        "recipeItemId": 6377
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Stamina",
+        "_id": 13378,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 125
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Spirit",
+        "_id": 13380,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 130,
+        "recipeItemId": 11038
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Agility",
+        "_id": 13419,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 80,
+        "recipeItemId": 11039
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Protection",
+        "_id": 13421,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 115
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Protection",
+        "_id": 13464,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 115,
+        "recipeItemId": 11081
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Spirit",
+        "_id": 13485,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 130
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Stamina",
+        "_id": 13501,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 170
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Striking",
+        "_id": 13503,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 140
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Impact",
+        "_id": 13529,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 145
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Strength",
+        "_id": 13536,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 140,
+        "recipeItemId": 11101
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Absorption",
+        "_id": 13538,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 140
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mana",
+        "_id": 13607,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 145
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mining",
+        "_id": 13612,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 145,
+        "recipeItemId": 11150
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Herbalism",
+        "_id": 13617,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 145,
+        "recipeItemId": 78343
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Fishing",
+        "_id": 13620,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 145,
+        "recipeItemId": 11152
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Intellect",
+        "_id": 13622,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 150
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Stats",
+        "_id": 13626,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 150
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Stamina",
+        "_id": 13631,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 170
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Defense",
+        "_id": 13635,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 155
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Agility",
+        "_id": 13637,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 160
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Health",
+        "_id": 13640,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 160
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Spirit",
+        "_id": 13642,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 180
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Stamina",
+        "_id": 13644,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 170
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Dodge",
+        "_id": 13646,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 310
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Stamina",
+        "_id": 13648,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 460
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Beastslayer",
+        "_id": 13653,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 175,
+        "recipeItemId": 11164
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Elemental Slayer",
+        "_id": 13655,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 175,
+        "recipeItemId": 11165
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Spirit",
+        "_id": 13659,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 180
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Strength",
+        "_id": 13661,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 225
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Mana",
+        "_id": 13663,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 185
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Spirit",
+        "_id": 13687,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 130,
+        "recipeItemId": 11167
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Parry",
+        "_id": 13689,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 195,
+        "recipeItemId": 11168
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Striking",
+        "_id": 13693,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 195
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Impact",
+        "_id": 13695,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 200
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Skinning",
+        "_id": 13698,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 200,
+        "recipeItemId": 11166
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Stats",
+        "_id": 13700,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 200
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Defense",
+        "_id": 13746,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 205
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Agility",
+        "_id": 13815,
+        "release": "ORIG",
+        "quality": "RARE",
+        "skillLevel": 235
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Stamina",
+        "_id": 13817,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 460,
+        "recipeItemId": 11202
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Intellect",
+        "_id": 13822,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 465
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Stamina",
+        "_id": 13836,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 460
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Advanced Mining",
+        "_id": 13841,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 215,
+        "recipeItemId": 11203
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Spirit",
+        "_id": 13846,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 410,
+        "recipeItemId": 11204
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Health",
+        "_id": 13858,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 220
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Advanced Herbalism",
+        "_id": 13868,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 225,
+        "recipeItemId": 11205
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Agility",
+        "_id": 13882,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 160,
+        "recipeItemId": 71714
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Strength",
+        "_id": 13887,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 225
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Speed",
+        "_id": 13890,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 225
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Fiery Weapon",
+        "_id": 13898,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 265,
+        "recipeItemId": 11207
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Spirit",
+        "_id": 13905,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 410
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Demonslaying",
+        "_id": 13915,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 230,
+        "recipeItemId": 11208
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Mana",
+        "_id": 13917,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 230
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Dodge",
+        "_id": 13931,
+        "release": "ORIG",
+        "quality": "RARE",
+        "skillLevel": 420,
+        "recipeItemId": 11223
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Agility",
+        "_id": 13935,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 235
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Impact",
+        "_id": 13937,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 240
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Strength",
+        "_id": 13939,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 295
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Stats",
+        "_id": 13941,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 315
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Striking",
+        "_id": 13943,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 245
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Stamina",
+        "_id": 13945,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 245,
+        "recipeItemId": 11225
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Riding Skill",
+        "_id": 13947,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 250,
+        "recipeItemId": 11226
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Haste",
+        "_id": 13948,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 250
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Magic Wand",
+        "_id": 14293,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 10,
+        "craftedItemId": 11287
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Magic Wand",
+        "_id": 14807,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 70,
+        "craftedItemId": 11288
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Mystic Wand",
+        "_id": 14809,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 155,
+        "craftedItemId": 11289
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Mystic Wand",
+        "_id": 14810,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 175,
+        "craftedItemId": 11290
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Smoking Heart of the Mountain",
+        "_id": 15596,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 265,
+        "craftedItemId": 45050,
+        "recipeItemId": 45050
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Enchanted Thorium Bar",
+        "_id": 17180,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 250,
+        "craftedItemId": 12655
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Enchanted Leather",
+        "_id": 17181,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 250,
+        "craftedItemId": 12810
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Intellect",
+        "_id": 20008,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 510
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Spirit",
+        "_id": 20009,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 270,
+        "recipeItemId": 16218
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Strength",
+        "_id": 20010,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 295,
+        "recipeItemId": 16246
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Stamina",
+        "_id": 20011,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 550,
+        "recipeItemId": 16251
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Agility",
+        "_id": 20012,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 310
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Strength",
+        "_id": 20013,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 295
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Defense",
+        "_id": 20015,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 285,
+        "recipeItemId": 16224
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Vitality",
+        "_id": 20016,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 280
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Stamina",
+        "_id": 20017,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 265,
+        "recipeItemId": 16217
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Stamina",
+        "_id": 20020,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 260,
+        "recipeItemId": 16215
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Agility",
+        "_id": 20023,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 310
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Spirit",
+        "_id": 20024,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 180,
+        "recipeItemId": 16220
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Stats",
+        "_id": 20025,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 400,
+        "recipeItemId": 16253
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Health",
+        "_id": 20026,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 275,
+        "recipeItemId": 16221
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Mana",
+        "_id": 20028,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 290
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Icy Chill",
+        "_id": 20029,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 285,
+        "recipeItemId": 16223
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Impact",
+        "_id": 20030,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 295,
+        "recipeItemId": 16247
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Striking",
+        "_id": 20031,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 300,
+        "recipeItemId": 16250
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lifestealing",
+        "_id": 20032,
+        "release": "ORIG",
+        "quality": "RARE",
+        "skillLevel": 300,
+        "recipeItemId": 16254
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Unholy Weapon",
+        "_id": 20033,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 295,
+        "recipeItemId": 16248
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Crusader",
+        "_id": 20034,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 300,
+        "recipeItemId": 16252
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Spirit",
+        "_id": 20035,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 420,
+        "recipeItemId": 16255
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Intellect",
+        "_id": 20036,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 575,
+        "recipeItemId": 16249
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Winter's Might",
+        "_id": 21931,
+        "release": "ORIG",
+        "quality": "UNCOMMON",
+        "skillLevel": 190,
+        "recipeItemId": 17725
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Spellpower",
+        "_id": 22749,
+        "release": "ORIG",
+        "quality": "RARE",
+        "skillLevel": 385,
+        "recipeItemId": 18259
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Healing Power",
+        "_id": 22750,
+        "release": "ORIG",
+        "quality": "RARE",
+        "skillLevel": 300,
+        "recipeItemId": 18260
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Strength",
+        "_id": 23799,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 225,
+        "recipeItemId": 19444
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Agility",
+        "_id": 23800,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 235,
+        "recipeItemId": 19445
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mana Regeneration",
+        "_id": 23801,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 290,
+        "recipeItemId": 19446
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Healing Power",
+        "_id": 23802,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 300,
+        "recipeItemId": 19447
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mighty Spirit",
+        "_id": 23803,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 525,
+        "recipeItemId": 19448
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mighty Intellect",
+        "_id": 23804,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 300,
+        "recipeItemId": 19449
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Threat",
+        "_id": 25072,
+        "release": "ORIG",
+        "quality": "RARE",
+        "skillLevel": 300,
+        "recipeItemId": 20726
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Shadow Power",
+        "_id": 25073,
+        "release": "ORIG",
+        "quality": "RARE",
+        "skillLevel": 300,
+        "recipeItemId": 20727
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Frost Power",
+        "_id": 25074,
+        "release": "ORIG",
+        "quality": "RARE",
+        "skillLevel": 300,
+        "recipeItemId": 20728
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Fire Power",
+        "_id": 25078,
+        "release": "ORIG",
+        "quality": "RARE",
+        "skillLevel": 300,
+        "recipeItemId": 20729
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Healing Power",
+        "_id": 25079,
+        "release": "ORIG",
+        "quality": "RARE",
+        "skillLevel": 300,
+        "recipeItemId": 20730
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Agility",
+        "_id": 25080,
+        "release": "ORIG",
+        "quality": "RARE",
+        "skillLevel": 415,
+        "recipeItemId": 20731
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Stealth",
+        "_id": 25083,
+        "release": "ORIG",
+        "quality": "RARE",
+        "skillLevel": 300,
+        "recipeItemId": 33149
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Dodge",
+        "_id": 25086,
+        "release": "ORIG",
+        "quality": "RARE",
+        "skillLevel": 420,
+        "recipeItemId": 33148
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Wizard Oil",
+        "_id": 25124,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 45,
+        "craftedItemId": 20744,
+        "recipeItemId": 20758
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Mana Oil",
+        "_id": 25125,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 150,
+        "craftedItemId": 20745,
+        "recipeItemId": 20752
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Wizard Oil",
+        "_id": 25126,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 200,
+        "craftedItemId": 20746,
+        "recipeItemId": 20753
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Mana Oil",
+        "_id": 25127,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 250,
+        "craftedItemId": 20747,
+        "recipeItemId": 20754
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Wizard Oil",
+        "_id": 25128,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 275,
+        "craftedItemId": 20750,
+        "recipeItemId": 20755
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Brilliant Wizard Oil",
+        "_id": 25129,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 300,
+        "craftedItemId": 20749,
+        "recipeItemId": 20756
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Brilliant Mana Oil",
+        "_id": 25130,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 300,
+        "craftedItemId": 20748,
+        "recipeItemId": 20757
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Agility",
+        "_id": 27837,
+        "release": "ORIG",
+        "quality": "COMMON",
+        "skillLevel": 235,
+        "recipeItemId": 22392
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Subtlety",
+        "_id": 25084,
+        "release": "TBC",
+        "quality": "RARE",
+        "skillLevel": 300,
+        "recipeItemId": 33150
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Brawn",
+        "_id": 27899,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 305
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Stats",
+        "_id": 27905,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 315
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Dodge",
+        "_id": 27906,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 400,
+        "recipeItemId": 22530
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Healing",
+        "_id": 27911,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 325,
+        "recipeItemId": 22531
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Restore Mana Prime",
+        "_id": 27913,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 300,
+        "recipeItemId": 22532
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Fortitude",
+        "_id": 27914,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 350,
+        "recipeItemId": 22533
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Spellpower",
+        "_id": 27917,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 385,
+        "recipeItemId": 22534
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Dodge",
+        "_id": 27944,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 310
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Intellect",
+        "_id": 27945,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 465,
+        "recipeItemId": 22539
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Parry",
+        "_id": 27946,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 340,
+        "recipeItemId": 22540
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Vitality",
+        "_id": 27948,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 280,
+        "recipeItemId": 22542
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Fortitude",
+        "_id": 27950,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 320,
+        "recipeItemId": 22543
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Dexterity",
+        "_id": 27951,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 340,
+        "recipeItemId": 22544
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Surefooted",
+        "_id": 27954,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 370,
+        "recipeItemId": 22545
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Exceptional Health",
+        "_id": 27957,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 315
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Exceptional Stats",
+        "_id": 27960,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 345,
+        "recipeItemId": 22547
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Armor",
+        "_id": 27961,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 310
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Striking",
+        "_id": 27967,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 340,
+        "recipeItemId": 22552
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Intellect",
+        "_id": 27968,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 575,
+        "recipeItemId": 22551
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Savagery",
+        "_id": 27971,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 350,
+        "recipeItemId": 22554
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Potency",
+        "_id": 27972,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 350,
+        "recipeItemId": 22553
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Spellpower",
+        "_id": 27975,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 350,
+        "recipeItemId": 22555
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Agility",
+        "_id": 27977,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 475,
+        "recipeItemId": 22556
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Sunfire",
+        "_id": 27981,
+        "release": "TBC",
+        "quality": "RARE",
+        "skillLevel": 375,
+        "recipeItemId": 22560
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Soulfrost",
+        "_id": 27982,
+        "release": "TBC",
+        "quality": "RARE",
+        "skillLevel": 375,
+        "recipeItemId": 22561
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mongoose",
+        "_id": 27984,
+        "release": "TBC",
+        "quality": "RARE",
+        "skillLevel": 375,
+        "recipeItemId": 22559
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Spellsurge",
+        "_id": 28003,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 360,
+        "recipeItemId": 22558
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Battlemaster",
+        "_id": 28004,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 360,
+        "recipeItemId": 22557
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Mana Oil",
+        "_id": 28016,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 310,
+        "craftedItemId": 22521,
+        "recipeItemId": 22562
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Wizard Oil",
+        "_id": 28019,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 340,
+        "craftedItemId": 22522,
+        "recipeItemId": 22563
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Large Prismatic Shard",
+        "_id": 28022,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 335,
+        "craftedItemId": 22449,
+        "recipeItemId": 22565
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Prismatic Sphere",
+        "_id": 28027,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 325,
+        "craftedItemId": 22460
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Void Sphere",
+        "_id": 28028,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 350,
+        "craftedItemId": 22459
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Spirit",
+        "_id": 33990,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 420
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Restore Mana Prime",
+        "_id": 33991,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 300
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Resilience",
+        "_id": 33992,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 345,
+        "recipeItemId": 28270
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Blasting",
+        "_id": 33993,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 305
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Precise Strikes",
+        "_id": 33994,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 360,
+        "recipeItemId": 28271
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Strength",
+        "_id": 33995,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 340
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Assault",
+        "_id": 33996,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 375
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Spellpower",
+        "_id": 33997,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 360,
+        "recipeItemId": 28272
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Healing",
+        "_id": 33999,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 350,
+        "recipeItemId": 28273
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Intellect",
+        "_id": 34001,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 575
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Assault",
+        "_id": 34002,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 300
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "PvP Power",
+        "_id": 34003,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 325,
+        "recipeItemId": 28274
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Agility",
+        "_id": 34004,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 310
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Cat's Swiftness",
+        "_id": 34007,
+        "release": "TBC",
+        "quality": "RARE",
+        "skillLevel": 360,
+        "recipeItemId": 28279
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Boar's Speed",
+        "_id": 34008,
+        "release": "TBC",
+        "quality": "RARE",
+        "skillLevel": 360,
+        "recipeItemId": 28280
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Stamina",
+        "_id": 34009,
+        "release": "TBC",
+        "quality": "RARE",
+        "skillLevel": 325,
+        "recipeItemId": 28282
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Healing",
+        "_id": 34010,
+        "release": "TBC",
+        "quality": "UNCOMMON",
+        "skillLevel": 350,
+        "recipeItemId": 28281
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Nexus Transformation",
+        "_id": 42613,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 300,
+        "craftedItemId": 22448
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Small Prismatic Shard",
+        "_id": 42615,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 335,
+        "craftedItemId": 22448
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Agility",
+        "_id": 42620,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 310,
+        "recipeItemId": 33165
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Executioner",
+        "_id": 42974,
+        "release": "TBC",
+        "quality": "RARE",
+        "skillLevel": 375,
+        "craftedItemId": 78348,
+        "recipeItemId": 78348
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Resilience",
+        "_id": 44383,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 330
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Void Shatter",
+        "_id": 45765,
+        "release": "TBC",
+        "quality": "COMMON",
+        "skillLevel": 375,
+        "craftedItemId": 22449,
+        "recipeItemId": 34872
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Deathfrost",
+        "_id": 46578,
+        "release": "TBC",
+        "quality": "RARE",
+        "skillLevel": 350,
+        "craftedItemId": 35498,
+        "recipeItemId": 35498
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Dodge",
+        "_id": 47051,
+        "release": "TBC",
+        "quality": "RARE",
+        "skillLevel": 400,
+        "recipeItemId": 35756
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Exceptional Mana",
+        "_id": 27958,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 350
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Haste",
+        "_id": 44484,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 455
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Precision",
+        "_id": 44488,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 505
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Dodge",
+        "_id": 44489,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 420
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mighty Health",
+        "_id": 44492,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 395
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Agility",
+        "_id": 44500,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 415
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Gatherer",
+        "_id": 44506,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 375
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Spirit",
+        "_id": 44508,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 410
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Mana Restoration",
+        "_id": 44509,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 420
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Exceptional Spirit",
+        "_id": 44510,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 505
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Assault",
+        "_id": 44513,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 395
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Icebreaker",
+        "_id": 44524,
+        "release": "WOTLK",
+        "quality": "RARE",
+        "skillLevel": 425,
+        "recipeItemId": 37344
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Fortitude",
+        "_id": 44528,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 385
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Agility",
+        "_id": 44529,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 475
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Exceptional Intellect",
+        "_id": 44555,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 375
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Assault",
+        "_id": 44575,
+        "release": "WOTLK",
+        "quality": "UNCOMMON",
+        "skillLevel": 395,
+        "recipeItemId": 44484
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lifeward",
+        "_id": 44576,
+        "release": "WOTLK",
+        "quality": "RARE",
+        "skillLevel": 425,
+        "recipeItemId": 44494
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Minor Power",
+        "_id": 44582,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 395
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Vitality",
+        "_id": 44584,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 405
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Exceptional Resilience",
+        "_id": 44588,
+        "release": "WOTLK",
+        "quality": "UNCOMMON",
+        "skillLevel": 410,
+        "recipeItemId": 37340
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Agility",
+        "_id": 44589,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 415
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Dodge",
+        "_id": 44591,
+        "release": "WOTLK",
+        "quality": "UNCOMMON",
+        "skillLevel": 490,
+        "recipeItemId": 37347
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Exceptional Spellpower",
+        "_id": 44592,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 395
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Spirit",
+        "_id": 44593,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 420
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Scourgebane",
+        "_id": 44595,
+        "release": "WOTLK",
+        "quality": "RARE",
+        "skillLevel": 430,
+        "craftedItemId": 44473,
+        "recipeItemId": 44473
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Haste",
+        "_id": 44598,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 455
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Stats",
+        "_id": 44616,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 400
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Giant Slayer",
+        "_id": 44621,
+        "release": "WOTLK",
+        "quality": "RARE",
+        "skillLevel": 430,
+        "recipeItemId": 37339
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Super Stats",
+        "_id": 44623,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 370
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Armsman",
+        "_id": 44625,
+        "release": "WOTLK",
+        "quality": "UNCOMMON",
+        "skillLevel": 435,
+        "recipeItemId": 44485
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Exceptional Spellpower",
+        "_id": 44629,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 395
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Savagery",
+        "_id": 44630,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 390
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Shadow Armor",
+        "_id": 44631,
+        "release": "WOTLK",
+        "quality": "UNCOMMON",
+        "skillLevel": 440,
+        "recipeItemId": 37349
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Exceptional Agility",
+        "_id": 44633,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 410
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Spellpower",
+        "_id": 44635,
+        "release": "WOTLK",
+        "quality": "RARE",
+        "skillLevel": 395
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Dodge",
+        "_id": 46594,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 420,
+        "recipeItemId": 35500
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mighty Stamina",
+        "_id": 47672,
+        "release": "WOTLK",
+        "quality": "UNCOMMON",
+        "skillLevel": 430,
+        "recipeItemId": 44471
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Dodge",
+        "_id": 47766,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 400
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Speed",
+        "_id": 47898,
+        "release": "WOTLK",
+        "quality": "UNCOMMON",
+        "skillLevel": 430,
+        "recipeItemId": 44472
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Wisdom",
+        "_id": 47899,
+        "release": "WOTLK",
+        "quality": "UNCOMMON",
+        "skillLevel": 440,
+        "recipeItemId": 44488
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Super Health",
+        "_id": 47900,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 425
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Tuskarr's Vitality",
+        "_id": 47901,
+        "release": "WOTLK",
+        "quality": "UNCOMMON",
+        "skillLevel": 440,
+        "recipeItemId": 44491
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Accuracy",
+        "_id": 59619,
+        "release": "WOTLK",
+        "quality": "RARE",
+        "skillLevel": 550,
+        "recipeItemId": 44496
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Berserking",
+        "_id": 59621,
+        "release": "WOTLK",
+        "quality": "RARE",
+        "skillLevel": 440,
+        "recipeItemId": 44492
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Black Magic",
+        "_id": 59625,
+        "release": "WOTLK",
+        "quality": "RARE",
+        "skillLevel": 440,
+        "recipeItemId": 44495
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Assault",
+        "_id": 60606,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 375
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Speed",
+        "_id": 60609,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 435
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Assault",
+        "_id": 60616,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 375
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Potency",
+        "_id": 60621,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 380
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Icewalker",
+        "_id": 60623,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 385
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Intellect",
+        "_id": 60653,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 510
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Agility",
+        "_id": 60663,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 475
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Crusher",
+        "_id": 60668,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 425
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Massacre",
+        "_id": 60691,
+        "release": "WOTLK",
+        "quality": "RARE",
+        "skillLevel": 430,
+        "recipeItemId": 44483
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Powerful Stats",
+        "_id": 60692,
+        "release": "WOTLK",
+        "quality": "UNCOMMON",
+        "skillLevel": 440,
+        "recipeItemId": 44489
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Potency",
+        "_id": 60707,
+        "release": "WOTLK",
+        "quality": "RARE",
+        "skillLevel": 435,
+        "recipeItemId": 44486
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mighty Spellpower",
+        "_id": 60714,
+        "release": "WOTLK",
+        "quality": "RARE",
+        "skillLevel": 435,
+        "recipeItemId": 44487
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Assault",
+        "_id": 60763,
+        "release": "WOTLK",
+        "quality": "UNCOMMON",
+        "skillLevel": 395,
+        "recipeItemId": 44490
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Spellpower",
+        "_id": 60767,
+        "release": "WOTLK",
+        "quality": "UNCOMMON",
+        "skillLevel": 440,
+        "craftedItemId": 44498,
+        "recipeItemId": 44498
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Stamina",
+        "_id": 62256,
+        "release": "WOTLK",
+        "quality": "RARE",
+        "skillLevel": 450,
+        "craftedItemId": 44944,
+        "recipeItemId": 44944
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Spellpower",
+        "_id": 62948,
+        "release": "WOTLK",
+        "quality": "RARE",
+        "skillLevel": 395,
+        "recipeItemId": 45059
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Spellpower",
+        "_id": 62959,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 385
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Accuracy",
+        "_id": 63746,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 225
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Blade Ward",
+        "_id": 64441,
+        "release": "WOTLK",
+        "quality": "EPIC",
+        "skillLevel": 450,
+        "recipeItemId": 46027
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Blood Draining",
+        "_id": 64579,
+        "release": "WOTLK",
+        "quality": "EPIC",
+        "skillLevel": 450,
+        "recipeItemId": 46348
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Abyssal Shatter",
+        "_id": 69412,
+        "release": "WOTLK",
+        "quality": "COMMON",
+        "skillLevel": 390,
+        "craftedItemId": 89738
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Angler",
+        "_id": 71692,
+        "release": "WOTLK",
+        "quality": "UNCOMMON",
+        "skillLevel": 375,
+        "recipeItemId": 50406
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mastery",
+        "_id": 74132,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 510
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Earthen Vitality",
+        "_id": 74189,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 425
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mighty Stats",
+        "_id": 74191,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 425
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lesser Power",
+        "_id": 74192,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 435
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Speed",
+        "_id": 74193,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 435
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mending",
+        "_id": 74195,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 450
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Avalanche",
+        "_id": 74197,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 450
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Haste",
+        "_id": 74198,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 455
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Haste",
+        "_id": 74199,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 455
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Stamina",
+        "_id": 74200,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 460
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Critical Strike",
+        "_id": 74201,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 490
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Intellect",
+        "_id": 74202,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 465
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Protection",
+        "_id": 74207,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 500
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Elemental Slayer",
+        "_id": 74211,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 470
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Exceptional Strength",
+        "_id": 74212,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 470
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Agility",
+        "_id": 74213,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 475
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mighty Resilience",
+        "_id": 74214,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 475
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Haste",
+        "_id": 74220,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 550
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Hurricane",
+        "_id": 74223,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 480
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Heartsong",
+        "_id": 74225,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 485
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mastery",
+        "_id": 74226,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 510
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Dodge",
+        "_id": 74229,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 490
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Critical Strike",
+        "_id": 74230,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 490
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Exceptional Spirit",
+        "_id": 74231,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 505
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Precision",
+        "_id": 74232,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 505
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Protection",
+        "_id": 74234,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 500
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Intellect",
+        "_id": 74235,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 525
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Precision",
+        "_id": 74236,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 505
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Exceptional Spirit",
+        "_id": 74237,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 505
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mastery",
+        "_id": 74238,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 510
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Haste",
+        "_id": 74239,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 550
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Intellect",
+        "_id": 74240,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 510
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Power Torrent",
+        "_id": 74242,
+        "release": "CATA",
+        "quality": "RARE",
+        "skillLevel": 525,
+        "recipeItemId": 52733
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Windwalk",
+        "_id": 74244,
+        "release": "CATA",
+        "quality": "RARE",
+        "skillLevel": 525,
+        "recipeItemId": 52735
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Landslide",
+        "_id": 74246,
+        "release": "CATA",
+        "quality": "RARE",
+        "skillLevel": 525,
+        "recipeItemId": 52736
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Critical Strike",
+        "_id": 74247,
+        "release": "CATA",
+        "quality": "UNCOMMON",
+        "skillLevel": 525,
+        "recipeItemId": 52737
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Critical Strike",
+        "_id": 74248,
+        "release": "CATA",
+        "quality": "UNCOMMON",
+        "skillLevel": 525,
+        "recipeItemId": 52738
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Peerless Stats",
+        "_id": 74250,
+        "release": "CATA",
+        "quality": "UNCOMMON",
+        "skillLevel": 525,
+        "recipeItemId": 52739
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Stamina",
+        "_id": 74251,
+        "release": "CATA",
+        "quality": "UNCOMMON",
+        "skillLevel": 525,
+        "recipeItemId": 52740
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Assassin's Step",
+        "_id": 74252,
+        "release": "CATA",
+        "quality": "UNCOMMON",
+        "skillLevel": 525,
+        "recipeItemId": 64411
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Lavawalker",
+        "_id": 74253,
+        "release": "CATA",
+        "quality": "UNCOMMON",
+        "skillLevel": 525,
+        "recipeItemId": 64412
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mighty Strength",
+        "_id": 74254,
+        "release": "CATA",
+        "quality": "UNCOMMON",
+        "skillLevel": 525,
+        "craftedItemId": 64415,
+        "recipeItemId": 64415
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Mastery",
+        "_id": 74255,
+        "release": "CATA",
+        "quality": "UNCOMMON",
+        "skillLevel": 525,
+        "recipeItemId": 64414
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Speed",
+        "_id": 74256,
+        "release": "CATA",
+        "quality": "UNCOMMON",
+        "skillLevel": 525,
+        "recipeItemId": 64413
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Enchanted Lantern",
+        "_id": 93841,
+        "release": "CATA",
+        "quality": "RARE",
+        "skillLevel": 525,
+        "craftedItemId": 67308,
+        "recipeItemId": 67308
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Magic Lamp",
+        "_id": 93843,
+        "release": "CATA",
+        "quality": "RARE",
+        "skillLevel": 525,
+        "craftedItemId": 67312,
+        "recipeItemId": 67312
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mighty Agility",
+        "_id": 95471,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 470
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Strength",
+        "_id": 96261,
+        "release": "CATA",
+        "quality": "RARE",
+        "skillLevel": 340,
+        "recipeItemId": 68788
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mighty Intellect",
+        "_id": 96262,
+        "release": "CATA",
+        "quality": "RARE",
+        "skillLevel": 515,
+        "recipeItemId": 68789
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Agility",
+        "_id": 96264,
+        "release": "CATA",
+        "quality": "RARE",
+        "skillLevel": 235,
+        "recipeItemId": 68787
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Maelstrom Shatter",
+        "_id": 104698,
+        "release": "CATA",
+        "quality": "COMMON",
+        "skillLevel": 515
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mastery",
+        "_id": 104338,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 510
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Dodge",
+        "_id": 104385,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 525
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Super Intellect",
+        "_id": 104389,
+        "release": "MOP",
+        "quality": "RARE",
+        "skillLevel": 600,
+        "recipeItemId": 84559
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Exceptional Strength",
+        "_id": 104390,
+        "release": "MOP",
+        "quality": "RARE",
+        "skillLevel": 470,
+        "recipeItemId": 84561
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Agility",
+        "_id": 104391,
+        "release": "MOP",
+        "quality": "RARE",
+        "skillLevel": 310,
+        "recipeItemId": 84557
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Super Resilience",
+        "_id": 104392,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 525
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mighty Spirit",
+        "_id": 104393,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 525
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Glorious Stats",
+        "_id": 104395,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 575
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Stamina",
+        "_id": 104397,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 550
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Accuracy",
+        "_id": 104398,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 550
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Protection",
+        "_id": 104401,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 575
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Intellect",
+        "_id": 104403,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 525
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Critical Strike",
+        "_id": 104404,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 500
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Haste",
+        "_id": 104407,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 550
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Precision",
+        "_id": 104408,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 525
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Blurred Speed",
+        "_id": 104409,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 550
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Pandaren's Step",
+        "_id": 104414,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 575
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Haste",
+        "_id": 104416,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 550
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Haste",
+        "_id": 104417,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 550
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Super Strength",
+        "_id": 104419,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 575
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Superior Mastery",
+        "_id": 104420,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 575
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Windsong",
+        "_id": 104425,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 550
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Jade Spirit",
+        "_id": 104427,
+        "release": "MOP",
+        "quality": "RARE",
+        "skillLevel": 600,
+        "recipeItemId": 84583
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Elemental Force",
+        "_id": 104430,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 525
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Dancing Steel",
+        "_id": 104434,
+        "release": "MOP",
+        "quality": "RARE",
+        "skillLevel": 600,
+        "recipeItemId": 84584
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Colossus",
+        "_id": 104440,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 575
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "River's Song",
+        "_id": 104442,
+        "release": "MOP",
+        "quality": "RARE",
+        "skillLevel": 600,
+        "recipeItemId": 84580
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Major Intellect",
+        "_id": 104445,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 575
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mysterious Essence",
+        "_id": 116497,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 500
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Ethereal Shard",
+        "_id": 116498,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 550
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Sha Crystal",
+        "_id": 116499,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 600
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mysterious Diffusion",
+        "_id": 118237,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 535
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Ethereal Shatter",
+        "_id": 118238,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 585
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Sha Shatter",
+        "_id": 118239,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 600
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Greater Parry",
+        "_id": 130758,
+        "release": "MOP",
+        "quality": "COMMON",
+        "skillLevel": 575
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Breath of Critical Strike",
+        "_id": 158877,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Breath of Haste",
+        "_id": 158878,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118429
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Breath of Mastery",
+        "_id": 158879,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118430
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Breath of Multistrike",
+        "_id": 158880,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118431
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Breath of Versatility",
+        "_id": 158881,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118432
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Gift of Critical Strike",
+        "_id": 158884,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118433
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Gift of Haste",
+        "_id": 158885,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118434
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Gift of Mastery",
+        "_id": 158886,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118435
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Gift of Multistrike",
+        "_id": 158887,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118436
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Gift of Versatility",
+        "_id": 158889,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118437
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Breath of Critical Strike",
+        "_id": 158892,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118438
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Breath of Haste",
+        "_id": 158893,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118439
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Breath of Mastery",
+        "_id": 158894,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118440
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Breath of Multistrike",
+        "_id": 158895,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118441
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Breath of Versatility",
+        "_id": 158896,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118442
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Gift of Critical Strike",
+        "_id": 158899,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118443
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Gift of Haste",
+        "_id": 158900,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118444
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Gift of Mastery",
+        "_id": 158901,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118445
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Gift of Multistrike",
+        "_id": 158902,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118446
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Gift of Versatility",
+        "_id": 158903,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118447
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Breath of Critical Strike",
+        "_id": 158907,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Breath of Haste",
+        "_id": 158908,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Breath of Mastery",
+        "_id": 158909,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Breath of Multistrike",
+        "_id": 158910,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Breath of Versatility",
+        "_id": 158911,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Gift of Critical Strike",
+        "_id": 158914,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118453
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Gift of Haste",
+        "_id": 158915,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118454
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Gift of Mastery",
+        "_id": 158916,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118455
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Gift of Multistrike",
+        "_id": 158917,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118456
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Gift of Versatility",
+        "_id": 158918,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118457
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mark of the Thunderlord",
+        "_id": 159235,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118458
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mark of the Shattered Hand",
+        "_id": 159236,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mark of Warsong",
+        "_id": 159671,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118460
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mark of the Frostwolf",
+        "_id": 159672,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118461
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mark of Shadowmoon",
+        "_id": 159673,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118462
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mark of Blackrock",
+        "_id": 159674,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118463
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Enchanted Dust",
+        "_id": 162948,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Luminous Shard",
+        "_id": 169091,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Temporal Crystal",
+        "_id": 169092,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Mark of Bleeding Hollow",
+        "_id": 173323,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1,
+        "recipeItemId": 118467
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Secrets of Draenor Enchanting",
+        "_id": 177043,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 1
+    },
+    {
+        "tradeskillId": 333,
+        "tradeskill": "Enchanting",
+        "name": "Temporal Crystal",
+        "_id": 178241,
+        "release": "WOD",
+        "quality": "COMMON",
+        "skillLevel": 0
+    }
+]
